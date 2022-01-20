@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ajay,
+- 👀 I’m interested in computer science,
+- 🌱 I’m currently in high school,
+- 💞️ I’m looking to collaborate with open source projects, innovative people.
